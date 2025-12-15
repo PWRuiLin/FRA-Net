@@ -13,8 +13,7 @@ Ruilin Wang, Wenbo Wan, et al.
 
 ### Requirements
 
-The packages/versions we used in developing this project are all listed in the file：
-[requirements.txt](requirements.txt)
+The packages/versions we used in developing this project are all listed in the file (requirements.txt)
 
 ****
 
