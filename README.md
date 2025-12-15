@@ -1,7 +1,7 @@
 ### FRA-Net
 FRA-Net: Frature Fusion-based Robust Reversible Anomymization Network for Face Recovery
 
-Ruilin Wang, Wenbo Wan, et al. 
+Ruilin Wang et al. 
 
 
 > The complete source code of this paper can be obtained from the zip file
