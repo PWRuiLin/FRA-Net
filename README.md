@@ -36,10 +36,6 @@ Please download ImageNet or COCO datasets, and push them into `datasets` folder 
 ├── results
 ```
 
-For more details about the used datasets, please  read the original [paper](https://arxiv.).
-
-
-
 ### Pretrained Models, Models of other methods
 Please download the different models from this link: 
 https://pan.baidu.com/s/1Auzpk0Ol2Mx4SShRStlD8Q?pwd=ingj
@@ -64,26 +60,13 @@ Please place the model (model_141_fmmrdb_best.pth) in path:
 
 ### Train
 
-Change the settings in json file `train_settings.json`, then run the code: 
-
-```bash
-python train.py
-```
+Change the settings in json file `train_settings.json`, then run the code (train.py).
 
 The logging file and results will be saved at `results/xxx/`
 
 ### Test
 
-Change the settings in json file `test_settings.json`, then run the code: 
-
-```bash
-python test.py
-```
- or
-
-```bash
-python test_introduce.py
-```
+Change the settings in json file `test_settings.json`, then run the code (test.py or test_introduce.py).
 
 Note that after placing according to the model path mentioned above, the code (test_introduce.py) can be run directly to obtain the results!
 The logging file and results will be saved at `results/xxx/`
@@ -91,6 +74,7 @@ The logging file and results will be saved at `results/xxx/`
 
 ****
 
+For more details about the used datasets, please  read the original paper.
 
 ### Citation
 
