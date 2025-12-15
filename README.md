@@ -86,6 +86,7 @@ python test.py
 python test_introduce.py
 ```
 
+Note that after placing according to the model path mentioned above, the code (test_introduce.py) can be run directly to obtain the results!
 The logging file and results will be saved at `results/xxx/`
 
 
