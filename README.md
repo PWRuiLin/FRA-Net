@@ -1,14 +1,12 @@
 # FRA-Net
 FRA-Net: Frature Fusion-based Robust Reversible Anomymization Network for Face Recovery
 
-
 Ruilin Wang, Wenbo Wan, et al. 
-
-[[arXiv]](https://arxiv.) [[PDF]](https://arxiv.) 
-
 
 
 > The complete source code of this paper can be obtained from the zip file
+> For more details about the used datasets, please read the original paper.
+
 ****
 
 ### Requirements
@@ -72,23 +70,10 @@ Note that after placing according to the model path mentioned above, the code (t
 The logging file and results will be saved at `results/xxx/`
 
 
-****
-
-For more details about the used datasets, please  read the original paper.
 
 ### Citation
 
 Please cite our paper if you find this repo useful!
-
-```
-@inproceedings{wang2025FRA-Net,
-  title={FRA-Net: Frature Fusion-based Robust Reversible Anomymization Network for Face Recovery},
-  author={Ruilin Wang, Wenbo Wan, et al.},
-  booktitle={arXiv:},
-  year={2025}
-}
-```
-
 
 Contact: [ruilinwang@mail.sdu.edu.cn](mailto:ruilinwang@mail.sdu.edu.cn)
 
