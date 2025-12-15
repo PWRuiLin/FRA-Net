@@ -2,7 +2,7 @@
 FRA-Net: Frature Fusion-based Robust Reversible Anomymization Network for Face Recovery
 
 
-Ruilin  Wang, Yi Liu, Wenbo Wan (from Shandong University)
+Ruilin Wang, Wenbo Wan, et al. 
 
 [[arXiv]](https://arxiv.) [[PDF]](https://arxiv.) 
 
@@ -100,7 +100,7 @@ Please cite our paper if you find this repo useful!
 ```
 @inproceedings{wang2025FRA-Net,
   title={FRA-Net: Frature Fusion-based Robust Reversible Anomymization Network for Face Recovery},
-  author={Ruilin Wang, Yi Liu, Wenbo Wan, et al.},
+  author={Ruilin Wang, Wenbo Wan, et al.},
   booktitle={arXiv:},
   year={2025}
 }
