@@ -50,7 +50,7 @@ IMN model:
 Please place the model (model11) in path:
 /other_method/IMN_main/model/
 
-IMN model:
+GenRAN model:
 Please place the model (model_141_fmmrdb_best.pth) in path:
 /other_method/GenRAN_main/RFHN/model/test_model
 ****
